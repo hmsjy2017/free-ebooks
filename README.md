@@ -6,7 +6,7 @@
 
 
 ## Python
-[父与子的编程之旅与小卡特一起学Python.pdf]（https://iamsjy.coding.net/s/39bf60c4-ee28-4145-ae55-3a981aab9761）
+[父与子的编程之旅与小卡特一起学Python.pdf](https://iamsjy.coding.net/s/39bf60c4-ee28-4145-ae55-3a981aab9761)
 
 ## Linux
 [Linux 就该这样学](https://iamsjy.coding.net/s/edeb17d3-375d-4111-ab5b-5accc9e39bef)
