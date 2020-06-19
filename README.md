@@ -6,6 +6,12 @@
 [C++ Primer Plus（第6版）中文版](https://github.com/hmsjy2017/free-ebooks/releases/download/v6-zh_CN/C++Primer-Plus-v6-zh_CN.pdf)
 
 ## Python
+[简明 Python 教程 PDF版](https://iamsjy.coding.net/s/a870e9b1-decd-479d-bcc1-7bd7a4fcc75c)
+
+[简明 Python 教程 EPUB版](https://iamsjy.coding.net/s/58f09f34-070f-4325-88cc-d70eb3318cf0)
+
+[Python编程：从入门到实践]（https://iamsjy.coding.net/s/9cbd64c7-3b88-4f82-90b6-434ecf938d93）
+
 [父与子的编程之旅与小卡特一起学Python.pdf](https://iamsjy.coding.net/s/39bf60c4-ee28-4145-ae55-3a981aab9761)
 
 ## Linux
