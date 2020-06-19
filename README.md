@@ -3,7 +3,7 @@
 [C Primer Plus (6th Edition).pdf](https://iamsjy.coding.net/s/ae9154e8-271f-4072-94b0-27f736c442c1)
 
 ## C++
-
+[C++ Primer Plus（第6版）中文版](https://github.com/hmsjy2017/free-ebooks/releases/download/v6-zh_CN/C++Primer-Plus-v6-zh_CN.pdf)
 
 ## Python
 [父与子的编程之旅与小卡特一起学Python.pdf](https://iamsjy.coding.net/s/39bf60c4-ee28-4145-ae55-3a981aab9761)
