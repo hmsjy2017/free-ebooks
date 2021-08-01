@@ -1,4 +1,6 @@
 # 免费电子书
+**免责声明：仅供学习和研究使用，请勿用于商业用途！**
+
 ## 更多电子书：https://pan.iamsjy.com/E-books/ （OneDrive）
 备用：https://drive.iamsjy.eu.org/?path=/E-books  
 30 G 电子书免费送
