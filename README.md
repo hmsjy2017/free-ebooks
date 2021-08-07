@@ -1,8 +1,8 @@
 # 免费电子书
 **免责声明：仅供学习和研究使用，请勿用于商业用途！**
 
-## 更多电子书：https://onelist.ml/E-books/ （OneDrive）
-备用：https://drive.iamsjy.eu.org/?path=/E-books  
+## 更多电子书：https://onelist.tk/E-books/ （OneDrive）
+备用：https://fodi.ml/?path=/E-books  
 30 G 电子书免费送
 ## C
 [C Primer Plus (6th Edition).pdf](https://iamsjy.coding.net/s/ae9154e8-271f-4072-94b0-27f736c442c1)
