@@ -1,7 +1,7 @@
 # 免费电子书
 **免责声明：所有资源均搜集自网络，仅供学习和研究使用，请勿用于商业用途！**
 
-## 更多电子书：https://fodi.ml/?path=/E-books  
+## 更多电子书：http://pan2.iamsjy.com/E-books/  
 30 G 电子书免费送
 ## C
 [C Primer Plus (6th Edition).pdf](https://iamsjy.coding.net/s/ae9154e8-271f-4072-94b0-27f736c442c1)
