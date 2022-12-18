@@ -1,4 +1,6 @@
 # 免费电子书
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmsjy2017%2Ffree-ebooks&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 **免责声明：所有资源均搜集自网络，仅供学习和研究使用，请勿用于商业用途！**
 
 ## 更多电子书：https://storage.iamsjy.com/E-books/  
